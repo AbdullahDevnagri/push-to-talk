@@ -1,4 +1,5 @@
 # Push-to-Talk Voice AI Agent
+![pushtotalk](https://github.com/user-attachments/assets/dae34647-ebf5-4226-90cb-520b86a18226)
 
 A voice AI agent with push-to-talk functionality. Users hold a button to speak, and release it to send their message to the AI.
 
