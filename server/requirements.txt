@@ -1,0 +1,3 @@
+pipecat-ai[deepgram,openai,silero,cartesia,runner,websocket,gemini]>=0.0.79
+python-dotenv
+loguru
